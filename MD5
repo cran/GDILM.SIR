@@ -1,0 +1,9 @@
+b6326a4987eeb6c583411123214e09f5 *DESCRIPTION
+699c35bc0d8b3f92a58c8bb8c3c64783 *LICENSE
+604ea250a4236dbe4efb936c7ea22fcf *NAMESPACE
+10280cfe7221143cb7da447e3a880bec *R/Simulation_Spatialmod_Estimation.R
+9fa57c948374897c880b47a0af621781 *R/Simulation_Spatialmod_Final_Model.R
+36bd8cddb3fa0077aa67104dc08b6b66 *R/Simulation_Spatialmod_LogLikelihood.R
+b17ef8feae72fb3c1e1bc61a24828bdf *man/Sim_Estpar.Rd
+11fd547da6d50acdde8cf461f78d72a9 *man/Sim_Loglik.Rd
+15367a28b5ece54c1d5df47293a1fb23 *man/Simulation_Finalmodel.Rd
