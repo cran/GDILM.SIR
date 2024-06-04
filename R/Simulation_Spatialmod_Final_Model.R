@@ -32,7 +32,7 @@
 #' @importFrom Matrix bdiag
 #' @importFrom stats qnorm
 #' @importFrom stats runif
-#' @importFrom maxLik hessian
+#' @importFrom numDeriv hessian
 #'
 #' @examples Simulation_Finalmodel(2,4,0.2,0.5,
 #' matrix(runif(1600,min=4,max=20),nrow=40,byrow=TRUE),2,10,3,40,10,
